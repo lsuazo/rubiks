@@ -1,0 +1,17 @@
+* Create a nice visualization
+	- simple, angled view
+	- all sides view
+	- top/bottom view
+* reach: create a way to have a camera record actual cube, and get state from it
+* reach: create interactive way to solve cube - camera sees position, tells you what to do (knows if you are following or not)
+* reach: create reinforcement agent that can solve it faster
+* reach: can I start from a position, and find faster ways to solve than typical algo
+* practice:
+	- pytorch
+	- cpp - what aspect should be cpp?
+		* perhaps cube state, and doing calculations on cube state? like distance from goal? distance from each other? etc
+		* yes, have a way to move state to-from python and c++
+	- integrated projects
+	- profiling
+	- maths? group theory?
+	- GUI
